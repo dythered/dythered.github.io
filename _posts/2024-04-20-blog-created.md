@@ -46,15 +46,10 @@ github에서 돌아가게 하려면
 결론: 
 - 로컬에서 확인하고 싶으면 `theme: jekyll-theme-simplex`을 살려야 함
 - github에서 돌아가게 하려면 `theme: jekyll-theme-simplex` 주석 처리
+   
 
 
-
-
-
-
-
-
-
-
+업로드 하고보니 메인 페이지에 제목 아래 내용이 아주 구구절절 너무 많이 보이는 이슈가 있다   
+이건 내일 보수공사를 하도록 하겠어요
 
 
