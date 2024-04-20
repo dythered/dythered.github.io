@@ -29,7 +29,7 @@ github_username:  dythered
 
 # Build settings
 
-theme: jekyll-theme-simplex #minima #이거 주석처리하면 bundle exec jekyll serve 안됨
+# theme: jekyll-theme-simplex #minima
 remote_theme: andreondra/jekyll-theme-simplex
 
 plugins:

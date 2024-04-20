@@ -1,0 +1,12 @@
+- title: About
+  url: about/
+  #icon: 
+  hue: "var(--c-themeHueRed)"
+- title: Data Science
+  url: category/datascience.html
+  #icon: 
+  hue: "var(--c-themeHueBlue)"
+- title: Blog
+  url: category/blog.html
+  #icon: 
+  hue: "var(--c-themeTerniaryDark)"
