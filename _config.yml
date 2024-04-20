@@ -28,10 +28,32 @@ url: "https://dythered.github.io" # the base hostname & protocol for your site, 
 github_username:  dythered
 
 # Build settings
-#theme: jekyll-theme-simplex #minima
+
+theme: jekyll-theme-simplex #minima
 
 plugins:
   - jekyll-feed
+
+
+timezone: Asia/Seoul
+logo_img: /assets/img/icons/dythered_logo.svg
+copyright: © dythered 2024
+
+collections:
+    category:
+        output: true
+    authors:
+        output: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
