@@ -28,7 +28,7 @@ url: "https://dythered.github.io" # the base hostname & protocol for your site, 
 github_username:  dythered
 
 # Build settings
-theme: jekyll-theme-simplex #minima
+#theme: jekyll-theme-simplex #minima
 
 plugins:
   - jekyll-feed
