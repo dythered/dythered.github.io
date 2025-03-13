@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # theme
 gem "jekyll-theme-simplex"
-gem 'jekyll-spaceship', group: :jekyll_plugins
+gem 'jekyll-spaceship'
