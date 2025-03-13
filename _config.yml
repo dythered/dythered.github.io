@@ -29,7 +29,7 @@ github_username:  dythered
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-simplex
+# theme: jekyll-theme-simplex
 remote_theme: andreondra/jekyll-theme-simplex
 plugins:
   - jekyll-feed
